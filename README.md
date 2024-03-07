@@ -3,7 +3,7 @@
 <h3> 
   <p> 
     <ul> 
-        <li> Aluno </li>
+        <li> Aluno  - teste</li>
         <li> Diretor </li>
         <li> Técnico </li>
     </ul>
