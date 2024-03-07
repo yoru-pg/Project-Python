@@ -4,6 +4,8 @@
   <p> 
     <ul> 
         Aluno 
+        Diretor
+        Técnico
     </ul>
   </p>
 <h3>
