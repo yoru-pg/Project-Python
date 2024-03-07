@@ -3,9 +3,9 @@
 <h3> 
   <p> 
     <ul> 
-        Aluno 
-        Diretor
-        Técnico
+        <li> Aluno </li>
+        <li> Diretor </li>
+        <li> Técnico </li>
     </ul>
   </p>
 <h3>
